@@ -1,0 +1,10 @@
+{
+  "data_name": "seishintotokinoheya",
+  "data_version": "1.0",
+  "emoticons": [
+    {
+      "key": "(osoroshii)",
+      "src": "http://res.cloudinary.com/chatpp/image/upload/emo/30ff80c8.jpg"
+    }
+  ]
+}
