@@ -5,6 +5,10 @@
     {
       "key": "(osoroshii)",
       "src": "http://res.cloudinary.com/chatpp/image/upload/emo/30ff80c8.jpg"
+    },
+    {
+      "key": "(paguo1)",
+      "src": "https://raw.githubusercontent.com/wcsegw/chatwork/master/emoticon.json"
     }
   ]
 }
