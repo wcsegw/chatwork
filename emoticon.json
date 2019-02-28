@@ -105,6 +105,22 @@
     {
       "key": "(kusa8)",
       "src": "https://stickershop.line-scdn.net/stickershop/v1/sticker/15977873/ANDROID/sticker.png;compress=true"
+    },
+    {
+      "key": "(mats1)",
+      "src": "https://stickershop.line-scdn.net/stickershop/v1/sticker/139275534/IOS/sticker_animation@2x.png;compress=true"
+    },
+    {
+      "key": "(mats2)",
+      "src": "https://stickershop.line-scdn.net/stickershop/v1/sticker/139275536/IOS/sticker_animation@2x.png;compress=true"
+    },
+    {
+      "key": "(mats3)",
+      "src": "https://stickershop.line-scdn.net/stickershop/v1/sticker/139275550/IOS/sticker_animation@2x.png;compress=true"
+    },
+    {
+      "key": "(mats4)",
+      "src": "https://stickershop.line-scdn.net/stickershop/v1/sticker/139275557/IOS/sticker_animation@2x.png;compress=true"
     }
   ]
 }
